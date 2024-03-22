@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently looking for an full time opportunity in the line of technology "MERN stack"
 
-- 🌱 I’m currently learning **"MERN" and mastering front-end technologies**
+- 🌱 I’m focussed in professional development through grinding up **"MERN" and mastering front-end technologies**
 
 - 💬 Ask me about **React, angular, web stack**
 
