@@ -7,7 +7,7 @@
 
 - 🌱 I’m focussed in professional development through grinding up **"MERN" and mastering front-end technologies**.
 
-- 💬 Ask me about **React, angular, Jest**.
+- 💬 Ask me about **React**.
 
 - 📫 How to reach me **venkat.klv01@gmail.com**.
 
