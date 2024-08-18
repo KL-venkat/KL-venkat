@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Myself venkat </h1>
+<h1 align="center">Hi 👋, Myself Venkat Koppula </h1>
 <h3 align="center">Tech stack "MERN"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkat&label=Profile%20views&color=0e75b6&style=flat" alt="venkat" /> </p>
