@@ -5,7 +5,9 @@
 
 - 🔭 I’m currently looking for an full time opportunity in the line of technology "MERN stack".
 
-- 🌱 I’m focussed in professional development through grinding up **"MERN" and mastering front-end technologies**.
+- 🌱 I’m focussed in professional development through grinding up **"MERN" and mastering front-end technologies by building handson projects**.
+
+- 👨‍💻  working on optimizing Proctor_clone application, Food_court application
 
 - 💬 Ask me about **React**.
 
