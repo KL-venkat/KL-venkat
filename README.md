@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkat&label=Profile%20views&color=0e75b6&style=flat" alt="venkat" /> </p>
 
-- 🔭 I’m currently looking for an full time opportunity in the line of technology "MERN stack".
+- 🔭 I’m currently looking for an full time opportunity as "Salesforce Developer".
 
-- 🌱 I’m focussed in professional development through grinding up **"Salesforce ecosystem" and mastering front-end technologies by building handson projects**.
+- 🌱 I’m focussed in professional development through grinding up **"Salesforce Concepts" and mastering front-end technologies by building handson projects**.
 
-- 👨‍💻  working on optimizing Proctor_clone application, Food_court application.
+- 👨‍💻  Build an optimized Proctor_clone application, Food_court application.
 
 - 💬 Ask me about ** Salesforce **.
 
