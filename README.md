@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently looking for an full time opportunity as "Salesforce Developer".
 
-- 🌱 I’m focussed in professional development through grinding up **"Salesforce Concepts" and mastering front-end technologies by building handson projects**.
+- 🌱 I’m focussed in professional development through grinding up **"Salesforce Concepts" and mastering technologies by building handson projects**.
 
 - 👨‍💻  Build an optimized Proctor_clone application, Food_court application.
 
