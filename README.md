@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, Myself Venkat Koppula </h1>
-<h3 align="center"> "SALESFORCE DEVELOPER"</h3>
+<h3 align="center"> "Data Analytics"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkat&label=Profile%20views&color=0e75b6&style=flat" alt="venkat" /> </p>
 
-- 🔭 I’m currently looking for an full time opportunity as "Salesforce Developer".
+- 🔭 I’m currently looking for an full time opportunity as "Data Analyst".
 
 - 🌱 I’m focussed in professional development through grinding up **"Salesforce Concepts" and mastering technologies by building handson projects**.
 
