@@ -49,10 +49,8 @@
 - Bootstrap
 
 ### ☁️ Cloud & Tools
-- Salesforce CRM
-- Azure Fundamentals
+- Salesforce CRM(Sales Cloud)
 - Git & GitHub
-- Postman
 
 ---
 
