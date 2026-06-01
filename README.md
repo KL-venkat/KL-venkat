@@ -1,27 +1,120 @@
-<h1 align="center">Hi 👋, Myself Venkat Koppula </h1>
-<h3 align="center"> "Data Analytics"</h3>
+<h1 align="center">Hi 👋, I'm Venkat Koppula</h1>
+<h3 align="center">Aspiring Data Analyst | SQL | Power BI | Python | Excel</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=venkat&label=Profile%20views&color=0e75b6&style=flat" alt="venkat" /> </p>
-
-- 🔭 I’m currently looking for an full time opportunity as "Data Analyst".
-
-- 🌱 I’m focussed in professional development through grinding up **"Salesforce Concepts" and mastering technologies by building handson projects**.
-
-- 👨‍💻  Build an optimized Proctor_clone application, Food_court application.
-
-- 💬 Ask me about ** Salesforce **.
-
-- 📫 How to reach me **venkat.klv01@gmail.com**.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/venkatkoppula/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/venkatkoppula/" height="30" width="40" /></a>
+<p align="center">
+  Turning data into actionable insights through analytics, visualization, and problem-solving.
 </p>
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-<hr/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=venkatkoppula&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=venkat&show_icons=true&locale=en&layout=compact" alt="venkat" /></p>-->
+---
 
+## 👨‍💻 About Me
 
+- 🎯 **Data Analyst** actively seeking full-time opportunities.
+- 💼 3+ years of professional experience across **Software Development**, **Operations**, and **Customer Support**.
+- 📊 Building hands-on projects using **SQL, Python, Excel, and Power BI**.
+- 🌱 Currently strengthening my knowledge in:
+  - Data Analytics
+  - Statistics
+  - Data Visualization
+  - Business Intelligence
+  - Salesforce CRM
+- 📈 Passionate about transforming raw data into meaningful business insights.
+
+---
+
+## 🛠️ Technical Skills
+
+### 📊 Data Analytics
+- SQL
+- Power BI
+- Python
+- Excel
+- Data Cleaning
+- Data Visualization
+- Dashboard Development
+- KPI Analysis
+- Reporting
+
+### 💻 Development
+- JavaScript
+- TypeScript
+- React
+- Redux
+- HTML
+- CSS
+- Bootstrap
+
+### ☁️ Cloud & Tools
+- Salesforce CRM
+- Azure Fundamentals
+- Git & GitHub
+- Postman
+
+---
+
+## 🚀 Current Focus
+
+✔ Building end-to-end Data Analytics projects
+
+✔ Advanced SQL Practice
+
+✔ Power BI Dashboard Development
+
+✔ Python for Data Analysis
+
+✔ Business & KPI Reporting
+
+---
+
+## 📂 Featured Projects
+
+### 📊 Sales Performance Dashboard
+- Built interactive Power BI dashboards to analyze sales trends and KPIs.
+- Used SQL for data extraction and transformation.
+
+### 🛒 Retail Data Analysis
+- Performed exploratory data analysis using Python and Excel.
+- Generated business insights and visualization reports.
+
+### 📈 Customer Insights Analytics
+- Analyzed customer behavior and created KPI reports.
+- Designed dashboards for stakeholder reporting.
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/venkatkoppula/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
+</p>
+
+📧 Email: **venkat.klv01@gmail.com**
+
+---
+
+## 🧰 Tools & Technologies
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+⭐ If you like my projects, feel free to explore my repositories and connect with me on LinkedIn.
