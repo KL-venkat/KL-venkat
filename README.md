@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Venkat Koppula</h1>
-<h3 align="center"> Data Analyst | SQL | Power BI | Python | Excel</h3>
+<h3 align="center"> Data | SQL | Power BI | Python | Excel</h3>
 
 <p align="center">
   Turning data into actionable insights through analytics, visualization, and problem-solving.
