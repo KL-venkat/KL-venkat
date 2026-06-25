@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Venkat Koppula</h1>
-<h3 align="center"> Data | SQL | Power BI | Python | Excel</h3>
+<h3 align="center"> Data | SQL | Power BI | Python | Excel | SAP GRC </h3>
 
 <p align="center">
   Turning data into actionable insights through analytics, visualization, and problem-solving.
@@ -14,14 +14,14 @@
 ## 👨‍💻 About Me
 
 - 🎯 **Data Analyst** actively seeking full-time opportunities.
-- 💼 3+ years of professional experience across **Software Development**, **Operations**, and **Customer Support**.
+- 💼 4 years of professional experience across **Software Development**, **CRM Operations**, and **Customer Experience**.
 - 📊 Building hands-on projects using **SQL, Python, Excel, and Power BI**.
 - 🌱 Currently strengthening my knowledge in:
   - Data Analytics
   - Statistics
   - Data Visualization
   - Business Intelligence
-  - Salesforce CRM
+  - SAP Security & GRC(figuring it out)
 - 📈 Passionate about transforming raw data into meaningful business insights.
 
 ---
@@ -43,14 +43,17 @@
 - JavaScript
 - TypeScript
 - React
+- React-Semantic UI
 - Redux
 - HTML
 - CSS
 - Bootstrap
 
-### ☁️ Cloud & Tools
+### ☁️ Cloud, SaaS/ Other Tools
 - Salesforce CRM(Sales Cloud)
 - Git & GitHub
+- JIRA
+- RALLY
 
 ---
 
