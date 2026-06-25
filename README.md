@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Venkat Koppula</h1>
+<h1 align="center">Hey there 👋, Thanks for stopping by! </h1>
 <h3 align="center"> Data | SQL | Power BI | Python | Excel | SAP GRC </h3>
 
 <p align="center">
@@ -14,7 +14,7 @@
 ## 👨‍💻 About Me
 
 - 🎯 **Data Analyst** actively seeking full-time opportunities.
-- 💼 4 years of professional experience across **Software Development**, **CRM Operations**, and **Customer Experience**.
+- 💼 4 years of professional experience across **Software Development**, **CRM Operations** and **Customer Experience**.
 - 📊 Building hands-on projects using **SQL, Python, Excel, and Power BI**.
 - 🌱 Currently strengthening my knowledge in:
   - Data Analytics
