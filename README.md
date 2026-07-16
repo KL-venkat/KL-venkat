@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, Thanks for stopping by! </h1>
-<h3 align="center"> Data | SQL | Power BI | Python | Excel | SAP GRC </h3>
+<h3 align="center"> Data | SQL | Power BI | Python | Excel | SAP GRC | QA | Production Support </h3>
 
 <p align="center">
   Turning data into actionable insights through analytics, visualization, and problem-solving.
@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎯 **Data Analyst** actively seeking full-time opportunities.
+- 🎯 **Techie** actively seeking full-time opportunities.
 - 💼 4 years of professional experience across **Software Development**, **CRM Operations** and **Customer Experience**.
 - 📊 Building hands-on projects using **SQL, Python, Excel, and Power BI**.
 - 🌱 Currently strengthening my knowledge in:
